@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJnkApp", "MyJnkApp\MyJnkApp.csproj", "{EC7673E6-9BD1-4A29-BDBE-701838871BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{52D46B01-6E56-42BD-B85A-2B27FCE72D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7673E6-9BD1-4A29-BDBE-701838871BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7673E6-9BD1-4A29-BDBE-701838871BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7673E6-9BD1-4A29-BDBE-701838871BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7673E6-9BD1-4A29-BDBE-701838871BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D46B01-6E56-42BD-B85A-2B27FCE72D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D46B01-6E56-42BD-B85A-2B27FCE72D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D46B01-6E56-42BD-B85A-2B27FCE72D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D46B01-6E56-42BD-B85A-2B27FCE72D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573A2FE8-4945-4813-8E8C-B0B8FFBF43CB}
+	EndGlobalSection
+EndGlobal
